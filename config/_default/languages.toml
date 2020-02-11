@@ -5,16 +5,43 @@
 # Configure the English version of the site.
 [en]
   languageCode = "en-us"
-  # contentDir = "content/en"  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
+  contentDir = "content/en"  
+# Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
 
 # Uncomment the lines below to configure your website in a second language.
-#[zh]
-#  languageCode = "zh-Hans"
-#  contentDir = "content/zh"
-#  title = "Chinese website title..."
-#  [zh.params]
-#    description = "Site description in Chinese..."
-#  [[zh.menu.main]]
-#    name = "Wo"
-#    url = "#about"
-#    weight = 1
+[zh]
+  languageCode = "zh-Hans"
+  contentDir = "content/zh"
+  title = "卢超"
+  [zh.params]
+    description = "卢超，男，1991年5月生，博士毕业于南京理工大学经济管理学院管理科学与工程专业。博士期间，主持南京理工大学研究生科研计划项目一项，参与国家级项目3项；前往印第安那大学联合培养2年；发表论文22篇，其中第一作者SSCI/SCI 论文5篇，第一作者CSSCI论文3篇，第一作者顶级国际会议论文（poster）若干篇。"
+
+[[zh.menu.main]]
+    name = "主页"
+    url = "#about"
+    weight = 10
+
+[[zh.menu.main]]
+    name = "论文"
+    url = "/publication/"
+    weight = 20
+
+[[zh.menu.main]]
+    name = "项目"
+    url = "#projects"
+    weight = 30
+
+[[zh.menu.main]]
+    name = "博文"
+    url = "#posts"
+    weight = 40
+
+[[zh.menu.main]]
+    name = "联系我"
+    url = "#contact"
+    weight = 60
+    
+[[zh.menu.main]]
+    name = "这是我的简历"
+    url = "files/cv-CN.pdf"
+    weight = 70
