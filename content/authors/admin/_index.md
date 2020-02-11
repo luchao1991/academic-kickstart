@@ -15,7 +15,7 @@ role: PhD in Management Science and Engineering
 # Organizations/Affiliations
 organizations:
 - name: Nanjing University of Science and Technology
-  url: "www.njust.edu.cn"
+  url: "https://www.njust.edu.cn"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include text mining, bibliometrics, science of science, scientific collaboration, interdisciplinarity, and other stuffs.
@@ -30,10 +30,10 @@ education:
   - course: PhD in Management Science and Engineering
     institution: Nanjing University of Science and Technology
     year: 2020
-  - course: MEng in Information Science
+  - course: MRes in Information Science
     institution: Nanjing University of Science and Technology
     year: 2014
-  - course: BSc in Library Science
+  - course: BLSc
     institution: Anhui University
     year: 2013
 
@@ -45,20 +45,17 @@ social:
 - icon: envelope
   icon_pack: fas
   link: "mailto:luchao@njust.edu.cn"  # For a direct email link, use "mailto:luchao@njust.edu.cn".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=OWcPYskAAAAJ&hl=en
-- icon: github
+- icon: weixin
   icon_pack: fab
-  link: https://github.com/luchao1991
+  link: 'img/QR_code.jpg'
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: files/cv.pdf
+  link: 'files/cv.pdf'
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "luchao@njust.edu.cn"
@@ -71,3 +68,5 @@ user_groups:
 ---
 
 Lu, Chao is a PhD of  Management Science and Engineering at the Nanjing University of Science and Technology. His research interests include text mining, bibliometrics, science of science, scientific collaboration, interdisciplinarity, and other stuffs. 
+
+He loves playing ping pang, swimming, and cooking, though he isn't really good at any of them. He is also a tortoise-like guy, his collaborators always push him to finish his work. While he is a nice team-player, good at sharing ideas and making them happen. Contact him if you are interested in what he is doing right now! See [more](/publication/).
