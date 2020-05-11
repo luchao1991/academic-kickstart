@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: 管理科学与工程专业博士
+role: 讲师
 
 # Organizations/Affiliations
 organizations:
-- name: 南京理工大学
-  url: "https://www.njust.edu.cn"
+- name: 河海大学商学院
+  url: "https://hhbs.hhu.edu.cn"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include text mining, bibliometrics, science of science, scientific collaboration, interdisciplinarity, and other stuffs.
@@ -44,7 +44,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:luchao@njust.edu.cn"  # For a direct email link, use "mailto:luchao@njust.edu.cn".
+  link: "mailto:luchao@njust.edu.cn"  # For a direct email link, use "mailto:luchao91@hhu.edu.cn".
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=OWcPYskAAAAJ&hl=en
@@ -58,7 +58,7 @@ social:
   link: 'files/cv-CN.pdf'
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "luchao@njust.edu.cn"
+email: "luchao91@hhu.edu.cn"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -67,4 +67,4 @@ user_groups:
 - Visitors
 ---
 
-卢超，男，1991年5月生，南京理工大学经济管理学院管理科学与工程专业博士研究生七年级。博士期间，主持南京理工大学研究生科研计划项目一项，参与国家级项目3项；前往印第安那大学联合培养2年；发表论文22篇，其中第一作者SSCI/SCI 论文5篇，第一作者CSSCI论文3篇，第一作者顶级国际会议论文（poster）若干篇。See [more](/publication/).
+卢超，男，1991年5月生，现为河海大学商学院市场营销系讲师，博士毕业于南京理工大学经济管理学院管理科学与工程专业。博士期间，主持南京理工大学研究生科研计划项目一项，参与国家级项目3项；前往印第安那大学联合培养2年；发表论文22篇，其中第一作者SSCI/SCI 论文5篇，第一作者CSSCI论文3篇，第一作者顶级国际会议论文（poster）若干篇。 [更多研究内容](/zh/publication/).

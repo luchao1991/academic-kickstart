@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD in Management Science and Engineering
+role: Lecturer in Management Science and Engineering
 
 # Organizations/Affiliations
 organizations:
-- name: Nanjing University of Science and Technology
-  url: "https://www.njust.edu.cn"
+- name: Business School, Hohai University
+  url: "https://hhbs.hhu.edu.cn"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include text mining, bibliometrics, science of science, scientific collaboration, interdisciplinarity, and other stuffs.
@@ -44,7 +44,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:luchao@njust.edu.cn"  # For a direct email link, use "mailto:luchao@njust.edu.cn".
+  link: "mailto:luchao@njust.edu.cn"  # For a direct email link, use "mailto:luchao91@hhu.edu.cn".
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=OWcPYskAAAAJ&hl=en
@@ -58,7 +58,7 @@ social:
   link: 'files/cv.pdf'
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "luchao@njust.edu.cn"
+email: "luchao91@hhu.edu.cn"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -67,6 +67,7 @@ user_groups:
 - Visitors
 ---
 
-Lu, Chao is a PhD of  Management Science and Engineering at the Nanjing University of Science and Technology. His research interests include text mining, bibliometrics, science of science, scientific collaboration, interdisciplinarity, and other stuffs. 
+Lu, Chao is a lecturer of the department of Marketing at the Business School of Hohai University. He is a PhD of  Management Science and Engineering at the Nanjing University of Science and Technology. His research interests include text mining, bibliometrics, science of science, scientific collaboration, interdisciplinarity, and other stuffs. 
 
-He loves playing ping pang, swimming, and cooking, though he isn't really good at any of them. He is also a tortoise-like guy, his collaborators always push him to finish his work. While he is a nice team-player, good at sharing ideas and making them happen. Contact him if you are interested in what he is doing right now! See [more](/publication/).
+He loves playing ping pang, swimming, and cooking, though he isn't really good at any of them. He is also a tortoise-like guy, his collaborators always push him to finish his work. While he is a nice team-player, good at sharing ideas and making them happen. Contact him if you are interested in what he is doing right now! [See more](/publication/).
+

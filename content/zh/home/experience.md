@@ -10,13 +10,28 @@ subtitle = ""
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format = "Jan 2006"
+date_format = "2006-01-02"
 
 # Experiences.
 #   Add/remove as many `[[experience]]` blocks below as you like.
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+[[Experience]]
+  title = "讲师"
+  company = "河海大学商学院"
+  company_url = "https://hhbs.hhu.edu.cn/"
+  location = "江苏省南京市"
+  date_start = "2020-05-07"
+  date_end = ""
+  description = """
+  职责包括：
+
+  * 教学工作
+
+  * 科研工作
+
+      """
 [[Experience]]
   title = "访问学生"
   company = "印第安纳大学布鲁明顿分校"
