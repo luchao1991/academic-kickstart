@@ -81,14 +81,14 @@ edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", content_dir 
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "luchao@njust.edu.cn"
-phone = "+86 18751869520"
+email = "luchao91@hhu.edu.cn"
+phone = "+86 2568514294"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
 
 
-address = {street = "200 Xiaolingwei Street", city = "Nanjing", region = "Jiangsu", postcode = "210094", country = "China", country_code = "CN"}
+address = {street = "#8 West Focheng Road", city = "Nanjing", region = "Jiangsu", postcode = "211000", country = "China", country_code = "CN"}
 
 
 # Geographic coordinates
