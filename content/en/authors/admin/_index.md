@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Lecturer in Management Science and Engineering
+role: Lecturer in Marketing Management
 
 # Organizations/Affiliations
 organizations:
@@ -44,7 +44,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:luchao@njust.edu.cn"  # For a direct email link, use "mailto:luchao91@hhu.edu.cn".
+  link: "mailto:luchao91@hhu.edu.cn"  # For a direct email link, use "mailto:luchao91@hhu.edu.cn".
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=OWcPYskAAAAJ&hl=en
