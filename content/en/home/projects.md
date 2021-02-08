@@ -10,8 +10,8 @@ subtitle = ""
 
 [content]
 
-1. National Natural Science Fund  Project (ID:72004054), 2021.01.01-2023.12.31
-2. Fundamental Research Funds for the Central Universities (ID: B200201070), 2020.01-2021.12
+name = "National Natural Science Fund  Project (ID:72004054), 2021.01.01-2023.12.31."
+#name =  "Fundamental Research Funds for the Central Universities (ID: B200201070), 2020.01.01-2021.12.31."
 
   # Page type to display. E.g. project.
   page_type = "project"
