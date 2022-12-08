@@ -4,7 +4,9 @@
 title: "Division of Labor in Science"
 summary: "National Natural Science Fund Project of China (No. 72004054)2021.01-2023.12"
 authors: []
-tags: ["scientific collabortion", "division of labor"]
+tags:
+  - scientific collaboration
+  - division of labor
 categories: ["scientific collaboration"]
 date: 2021-02-08T16:23:36+08:00
 

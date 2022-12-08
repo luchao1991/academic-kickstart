@@ -27,10 +27,6 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Scientific Collaboration
-    tag: scientific collaboration
-  - name: Team Diversity
-    tag: team diversity
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
