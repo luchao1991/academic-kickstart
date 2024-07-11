@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Lecturer in Marketing Management
+role: Associate Professor
 
 # Organizations/Affiliations
 organizations:
@@ -67,7 +67,7 @@ user_groups:
 - Visitors
 ---
 
-Lu, Chao is a lecturer of the department of Marketing at the Business School of Hohai University. He is a PhD of  Management Science and Engineering at the Nanjing University of Science and Technology. His research interests include text mining, bibliometrics, science of science, scientific collaboration, interdisciplinarity, and other stuffs. 
+Lu, Chao is an associate professor at the department of Marketing in the Business School of Hohai University. He is a PhD of  Management Science and Engineering at the Nanjing University of Science and Technology. His research interests include text mining, bibliometrics, science of science, scientific collaboration, interdisciplinarity, and other stuffs. 
 
 He loves playing ping pang, swimming, and cooking, though he isn't really good at any of them. He is also a tortoise-like guy, his collaborators always push him to finish his work. While he is a nice team-player, good at sharing ideas and making them happen. Contact him if you are interested in what he is doing right now! [See more](/publication/).
 
