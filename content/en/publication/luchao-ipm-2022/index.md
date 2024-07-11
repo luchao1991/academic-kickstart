@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Contributorship in Scientific Collaborations: The Perspective of Contribution-based Byline Orders"
-authors: []
+authors: ["Chao Lu", "Chenwei Zhang", "Ying Ding", "Chengrui Xiao"]
 date: 2022-12-04T21:41:59+08:00
 doi: "10.1016/j.ipm.2022.102944"
 
@@ -25,7 +25,7 @@ abstract: "Scientific collaboration empowers scholars to build larger teams and 
 summary: ""
 
 tags: ["scientific text mining","author contribution statement", "scientific collaboration"]
-categories: ["author contribution statement mining"]
+categories: []
 featured: true
 
 # Custom links (optional).

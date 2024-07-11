@@ -2,9 +2,11 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Division of Labor in Science"
-summary: "Nowadays scientific collaboration become more than common in academia. Big sciences and complex scientific questions drives scholars to work together to achieve better scientific performance. However, scientific scollaboration is never easy. The mechanism behind those scientific teams and labs are uknown yet that moves sciences forward continueously. This projects utilizes scientific data and qualitative experiments (hopefully) to unveil this magic so as to help scientists and professionals establish better teams and make greater contributions. On top of that, with clear understanding of division of labor in those scientific labor senarioes, we hope to establish a better environment for evaluating scholars' team performances and boosting their passion for collaboration."
+summary: "National Natural Science Fund Project of China (No. 72004054)2021.01-2023.12"
 authors: []
-tags: ["scientific collabortion", "division of labor"]
+tags:
+  - scientific collaboration
+  - division of labor
 categories: ["scientific collaboration"]
 date: 2021-02-08T16:23:36+08:00
 
@@ -39,4 +41,4 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-2021.01-2023.12: National Natural Science Fund Project of China (No. 72004054)
+Nowadays scientific collaboration become more than common in academia. Big sciences and complex scientific questions drives scholars to work together to achieve better scientific performance. However, scientific scollaboration is never easy. The mechanism behind those scientific teams and labs are uknown yet that moves sciences forward continueously. This projects utilizes scientific data and qualitative experiments (hopefully) to unveil this magic so as to help scientists and professionals establish better teams and make greater contributions. On top of that, with clear understanding of division of labor in those scientific labor senarioes, we hope to establish a better environment for evaluating scholars' team performances and boosting their passion for collaboration.
