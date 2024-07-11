@@ -5,13 +5,8 @@ title: Chao Lu
 # Is this the primary user of the site?
 superuser: true
 
-<<<<<<< HEAD
 # Role/position
 role: Associate Professor
-=======
-# Role/position/tagline
-position: Lecturer in Marketing Science
->>>>>>> 06eec1aa674c25138042a22a2d42c474207693c5
 
 # Organizations/Affiliations to show in About widget
 organizations:
