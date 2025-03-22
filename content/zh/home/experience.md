@@ -18,12 +18,26 @@ date_format = "2006-01-02"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[Experience]]
+  title = "副教授"
+  company = "河海大学商学院"
+  company_url = "https://hhbs.hhu.edu.cn/"
+  location = "江苏省南京市"
+  date_start = "2024-07-07"
+  date_end = ""
+  description = """
+  职责包括：
+
+  * 教学工作
+
+  * 科研工作
+
+[[Experience]]
   title = "讲师"
   company = "河海大学商学院"
   company_url = "https://hhbs.hhu.edu.cn/"
   location = "江苏省南京市"
   date_start = "2020-05-07"
-  date_end = ""
+  date_end = "2024-07-07"
   description = """
   职责包括：
 
