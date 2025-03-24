@@ -74,7 +74,7 @@ Lu, Chao is an associate professor at the department of Marketing in the Busines
 He loves playing ping pang, swimming, and cooking, though he isn't really good at any of them. He is also a tortoise-like guy, his collaborators always push him to finish his work. While he is a nice team-player, good at sharing ideas and making them happen. 
 
 We are welcoming those who are interested in Science of Science, Scientific Collaboration with text mining methods to join our group! We are dedicated to training your independent research skills! please 
-contact me if you are in pursuit of a PhD program in particular! We are looking for master students in LIS(professional track) and  Management Science and Engineering(academic track) now!
+contact me if you are to pursue a PhD program in particular! We are looking for master students in LIS(professional track) and  Management Science and Engineering(academic track) now!
 
 [See more](/publication/).
 
