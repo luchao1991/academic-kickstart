@@ -31,6 +31,7 @@ date_format = "2006-01-02"
 
   * 科研工作
 
+      """
 [[Experience]]
   title = "讲师"
   company = "河海大学商学院"
